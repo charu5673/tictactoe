@@ -313,7 +313,7 @@
                     android:layout_height="103dp"
                     android:layout_gravity="bottom|right"
                     android:textColor="#FFFFFF"
-                    android:textSize="34sp" />
+                    android:textSize="50sp" />
             </FrameLayout>
 
             <FrameLayout
@@ -337,7 +337,7 @@
                     android:layout_height="87dp"
                     android:layout_gravity="bottom|right"
                     android:textColor="#FFFFFF"
-                    android:textSize="30sp" />
+                    android:textSize="48sp" />
             </FrameLayout>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
